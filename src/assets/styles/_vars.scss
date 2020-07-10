@@ -1,0 +1,15 @@
+// 全局样式配置
+/* theme color */
+$--color-primary: teal;
+$--color-red: red;
+
+// flex
+
+.f-j {
+  display: flex;
+  justify-content: space-between;
+}
+
+.el-breadcrumb {
+  margin-bottom: 16px;
+}
